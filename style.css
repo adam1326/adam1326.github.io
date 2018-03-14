@@ -1,0 +1,14 @@
+body {
+    background-color: grey;
+}
+
+div {
+    height: 50px;
+    width: 50px;
+    float: left;
+}
+
+.p {
+    float: left;
+    text-align: center
+}
